@@ -1,11 +1,11 @@
 ### Hi there. Nice to meet you.👋
 
-- 🙌  I'm a graduate of the [Upleveled Web Development Bootcamp](https://upleveled.io/). 
-- 👩‍💻  I'm passionate about the frontend and not afraid of the backend.
-- 💻  I'm currently working on a full stack [pre-onboarding web app](https://github.com/Nella1a/next-js-pre-onboarding-platform),
-- 🤓  and using Next.js, Node.js, TypeScript, JavaScript and PostgreSQL.
-- 💚  Besides coding, my second passion is psychology.
-- 📡  You can reach me on [Linkedin](https://www.linkedin.com/in/martha-nankanja/).
+- 🙌  graduate of the [Upleveled Web Development Bootcamp](https://upleveled.io/)
+- 👩‍💻  passionate about the frontend and not afraid of the backend
+- 💻  current focus: learning python, django and tailwind 
+- 🤓  bootcamp final project: full stack [pre-onboarding web app](https://github.com/Nella1a/next-js-pre-onboarding-platform) (Next.js, Node.js, TypeScript, JavaScript and PostgreSQL)
+- 💚  besides coding, my second passion is psychology
+- 📡  you can reach me on [Linkedin](https://www.linkedin.com/in/martha-nankanja/)
 
 ### Languages and Tools:
 
