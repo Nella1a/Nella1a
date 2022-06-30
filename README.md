@@ -2,7 +2,7 @@
 
 - 🙌  graduate of the [Upleveled Web Development Bootcamp](https://upleveled.io/)
 - 👩‍💻  passionate about the frontend and not afraid of the backend
-- 💻  current focus: learning python, django and tailwind 
+- 💻  current focus: learning python, django and tailwind css 
 - 🤓  bootcamp final project: full stack [pre-onboarding web app](https://github.com/Nella1a/next-js-pre-onboarding-platform) (Next.js, Node.js, TypeScript, JavaScript and PostgreSQL)
 - 💚  besides coding, my second passion is psychology
 - 📡  you can reach me on [Linkedin](https://www.linkedin.com/in/martha-nankanja/)
