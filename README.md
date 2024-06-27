@@ -1,7 +1,6 @@
 ### Hi there. Nice to meet you.👋
 
 - 👩‍💻  Full Stack Developer from Vienna, Austria
-- 🙌  Graduate of the [Upleveled Web Development Bootcamp](https://upleveled.io/)
 - 💻  Current focus: React.js, Next.js, Python, Django
 - 📡  You can reach me on [Linkedin](https://www.linkedin.com/in/martha-nankanja/)
 
