@@ -1,7 +1,7 @@
 ### Hi there. Nice to meet you.👋
 
 - 👩‍💻  Full Stack Developer from Vienna, Austria
-- 💻  Current focus: React.js, Next.js, Python, Django
+- 💻  Current focus: Jenkins, AWS, React.js, Next.js, Python, Django,
 - 📡  You can reach me on [Linkedin](https://www.linkedin.com/in/martha-nankanja/)
 
 ### Languages and Tools:
