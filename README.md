@@ -1,6 +1,6 @@
 ### Hi there! Nice to meet you. 👋
 
-- 👩‍💻 Frontend and Full Stack Developer from Vienna, Austria  
+- 👩‍💻 Full Stack Developer from Vienna, Austria  
 - 📡 You can reach me on [LinkedIn](https://www.linkedin.com/in/martha-nankanja/)
 
 ---
